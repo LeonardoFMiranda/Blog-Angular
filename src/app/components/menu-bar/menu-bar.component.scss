@@ -1,0 +1,19 @@
+.container__menu-bar {
+  margin-top: 25px;
+  margin-bottom: 25px;
+
+  display: flex;
+  justify-content: center;
+  ul {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    li{
+      list-style: none;
+      a{
+        text-decoration: none;
+        color: white;
+      }
+    }
+  }
+}
