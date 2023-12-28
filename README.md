@@ -1,27 +1,12 @@
-# Projeto01Blog
+Meu Blog Pessoal
+Bem-vindo ao repositório do meu projeto de blog pessoal! Este é um projeto simples desenvolvido com o objetivo de aprimorar minhas habilidades em desenvolvimento web, com foco no frontend.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
+Objetivo do Projeto
+O principal propósito deste projeto é explorar e aprofundar meus conhecimentos em Angular, visando compreender melhor como tornar os componentes mais dinâmicos. Esta jornada de aprendizado também servirá como uma oportunidade para aprimorar minhas habilidades no desenvolvimento de interfaces de usuário interativas.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Tecnologias Utilizadas
+Angular: A escolha do Angular como framework principal proporciona uma experiência robusta e estruturada no desenvolvimento frontend.
+HTML/CSS: A base essencial para a construção de interfaces web, garantindo uma apresentação visual atraente e responsiva.
+JavaScript/TypeScript: Utilizados para adicionar dinamismo e interatividade aos componentes, tornando a experiência do usuário mais fluida.
+Estrutura do Projeto
+O projeto está organizado de forma a seguir boas práticas de desenvolvimento e manutenção de código. A estrutura de diretórios é pensada para facilitar a expansão do projeto e a inclusão de novos recursos.
